@@ -1,0 +1,11 @@
+📋 Health History Export
+==================================================
+
+📅 Date: 2025-04-26 15:16:33
+🤒 Symptoms: cough,headache
+🔑 Keywords: ["cough"]
+📊 Score: 1
+⚖️ Verdict: 🟢 Home Care
+💡 Response: {"remedy": "Drink plenty of fluids, like water and tea with honey. Rest and avoid strenuous activity.  A humidifier or steam from a hot shower can help soothe a cough.", "doctor_advice": "If the cough persists for more than two weeks, worsens, is accompanied by high fever, difficulty breathing, chest pain, or bloody mucus, seek medical attention.  Also, see a doctor if the headache becomes severe or doesn't improve with over-the-counter pain relievers."}
+==================================================
+

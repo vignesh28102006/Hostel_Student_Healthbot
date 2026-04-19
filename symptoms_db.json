@@ -1,0 +1,26 @@
+{
+    "fever": {
+        "keywords": ["hot", "chills", "temperature", "sweating", "body ache"],
+        "weight": 2
+    },
+    "cold": {
+        "keywords": ["runny nose", "sneezing", "congestion", "sore throat", "cough"],
+        "weight": 1
+    },
+    "headache": {
+        "keywords": ["head pain", "migraine", "dizziness", "light sensitivity"],
+        "weight": 1
+    },
+    "stomach_issues": {
+        "keywords": ["nausea", "vomiting", "diarrhea", "stomach pain", "indigestion"],
+        "weight": 2
+    },
+    "respiratory": {
+        "keywords": ["shortness of breath", "wheezing", "chest pain", "coughing"],
+        "weight": 3
+    },
+    "fatigue": {
+        "keywords": ["tired", "exhausted", "weak", "drowsy", "lethargic"],
+        "weight": 1
+    }
+} 
